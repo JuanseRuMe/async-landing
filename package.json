@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JuanseRuMe/async-landing/issues"
   },
-  "homepage": "https://github.com/JuanseRuMe/async-landing#readme"
+  "homepage": "https://github.com/JuanseRuMe/async-landing#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
